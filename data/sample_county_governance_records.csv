@@ -1,0 +1,6 @@
+county_id,county_name,board_type,enabling_legislation_status,outreach_status,source_status,confidence_level,review_flag,next_step
+MOCK-001,Sample County A,Board of Elections,Located,Responded,Document link available,High,No immediate concern,Archive source and mark complete
+MOCK-002,Sample County B,Board of Elections and Registration,Unclear,Follow-up needed,Partial documentation,Medium,Flag for staff review,Request enabling legislation from county clerk
+MOCK-003,Sample County C,Probate-led election administration,Not located,No response,No public source found,Low,Documentation gap,Escalate for additional public-records research
+MOCK-004,Sample County D,Hybrid structure,Located,Responded,Local act located,High,Governance structure needs review,Compare board practice against source document
+MOCK-005,Sample County E,Unknown,Pending outreach,Website search incomplete,Low,Research incomplete,Call county office and send follow-up email
