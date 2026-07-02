@@ -82,6 +82,7 @@ This repository includes a small mock data workflow to demonstrate how county-by
 
 **Mock data:** [`data/sample_county_governance_records.csv`](data/sample_county_governance_records.csv)  
 **Summary script:** [`analysis/summarize_governance_flags.py`](analysis/summarize_governance_flags.py)
+**Privacy notes:** [`docs/privacy_and_scope_notes.md`](docs/privacy_and_scope_notes.md)
 
 To run the script locally:
 
