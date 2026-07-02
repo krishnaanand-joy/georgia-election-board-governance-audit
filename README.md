@@ -58,3 +58,35 @@ Source and document review
 Structured data entry
     ↓
 Flag for legal or policy review
+```
+
+Then paste this directly below it:
+## What was tracked
+
+The internal project tracked information such as:
+
+- County name
+- Board of elections structure
+- Availability of enabling legislation
+- Source links or document references
+- Outreach attempts
+- Response status
+- Confidence level
+- Follow-up needs
+- Potential governance or documentation concerns
+
+This public version uses sanitized examples and a mock data schema only.
+
+## Mock data workflow
+
+This repository includes a small mock data workflow to demonstrate how county-by-county governance research could be structured.
+
+**Mock data:** [`data/sample_county_governance_records.csv`](data/sample_county_governance_records.csv)  
+**Summary script:** [`analysis/summarize_governance_flags.py`](analysis/summarize_governance_flags.py)
+
+To run the script locally:
+
+```bash
+pip install -r requirements.txt
+python analysis/summarize_governance_flags.py
+
