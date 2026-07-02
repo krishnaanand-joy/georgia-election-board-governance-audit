@@ -60,7 +60,6 @@ Structured data entry
 Flag for legal or policy review
 ```
 
-Then paste this directly below it:
 ## What was tracked
 
 The internal project tracked information such as:
